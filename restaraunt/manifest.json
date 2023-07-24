@@ -18,6 +18,11 @@
       "sizes": "512x512",
       "type": "png",
       "purpose": "any maskable"
+    },
+    {
+      "src": "256.png",
+      "sizes": "256x256",
+      "purpose": "any"
     }
   ],
   "theme_color": "#ffffff",
