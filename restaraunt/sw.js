@@ -1,4 +1,3 @@
-// Caches
 var CURRENT_CACHES = {
     font: 'font-cache-v1',
     css:'css-cache-v1',
